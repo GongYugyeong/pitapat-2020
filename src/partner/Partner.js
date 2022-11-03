@@ -17,8 +17,8 @@ function PitapatArea04(props) {
                 partner.map(function(name,index){
                   return(
                     <li className="partners" key={index}>
-                      <img src={"../images/main/pc/"+name+".png"} alt={"img"+index} className="pc_mode" />
-                      <img src={"../images/main/mo/"+name+".png"} alt={"img"+index} className="mo_mode" />
+                      <img src={"images/main/pc/"+name+".png"} alt={"img"+index} className="pc_mode" />
+                      <img src={"images/main/mo/"+name+".png"} alt={"img"+index} className="mo_mode" />
                     </li>
                   );
                 })

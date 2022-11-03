@@ -24,7 +24,7 @@ function PitapatArea02(props) {
                     work.map(function(name,index){
                         return(
                             <li className={"works work_"+(index+1)} key={(index+1)}>
-                                <img src={"../images/main/common/work_thumbnail_"+(name.id)+".png"} alt={name.title} />
+                                <img src={"images/main/common/work_thumbnail_"+(name.id)+".png"} alt={name.title} />
                                 <span>{name.category}</span>
                                 <p>{name.title}</p>
                             </li>
