@@ -1,4 +1,4 @@
-import workData from 'https://gongyugyeong.github.io/pitapat-2020/data/workData.json'
+import workData from '../data/workData.json'
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
