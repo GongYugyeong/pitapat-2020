@@ -1,4 +1,4 @@
-import workData from '../data/workData.json'
+import workData from 'data/workData.json'
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
@@ -34,7 +34,7 @@ function PitapatArea02(props) {
                 </ul>
                 <button className="moreBtn" style={style} onClick={(target)=>{
                     listCnt--;
-                    axios.get('../data/workData.json')
+                    axios.get('data/workData.json')
                     .then((result)=>{
                         setWork([...work,...result.data.list1]);
                         setStyle({display: 'none'});
