@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
-import logo from 'images/main/common/move_img/main_visual_01.gif';
+import logo from './images/main/common/move_img/main_visual_01.gif';
 
-import ContactMap from 'contact/Map';
-import ContactUs from 'contact/Us';
-import PitapatArea02 from 'work/Worklist';
-import PitapatArea04 from 'partner/Partner';
+import ContactMap from './contact/Map';
+import ContactUs from './contact/Us';
+import PitapatArea02 from './work/Worklist';
+import PitapatArea04 from './partner/Partner';
 
 import { Link, Element as scroll} from 'react-scroll';
 
