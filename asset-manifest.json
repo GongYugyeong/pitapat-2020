@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pitapat-2020/static/css/main.5da3ba93.css",
+    "main.js": "/pitapat-2020/static/js/main.21bee8df.js",
+    "static/js/787.4884500b.chunk.js": "/pitapat-2020/static/js/787.4884500b.chunk.js",
+    "static/media/main_visual_01.gif": "/pitapat-2020/static/media/main_visual_01.44b968f0b3e431dd4057.gif",
+    "static/media/visual_02_base.jpg": "/pitapat-2020/static/media/visual_02_base.9d938ef3f71bcf5cafde.jpg",
+    "static/media/img_head.png": "/pitapat-2020/static/media/img_head.0e683df66e8479a3629a.png",
+    "static/media/main_02_bg.jpg": "/pitapat-2020/static/media/main_02_bg.0791417784feaa09b673.jpg",
+    "static/media/visual_01_bg.jpg": "/pitapat-2020/static/media/visual_01_bg.18aebfbda93eaaee0f5e.jpg",
+    "index.html": "/pitapat-2020/index.html",
+    "main.5da3ba93.css.map": "/pitapat-2020/static/css/main.5da3ba93.css.map",
+    "main.21bee8df.js.map": "/pitapat-2020/static/js/main.21bee8df.js.map",
+    "787.4884500b.chunk.js.map": "/pitapat-2020/static/js/787.4884500b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5da3ba93.css",
+    "static/js/main.21bee8df.js"
+  ]
+}
